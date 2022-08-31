@@ -33,4 +33,23 @@ So, it may cause some problems. Firstly, it's hard to represent the relationship
 ...Using one number to stand for a word.
 For example: cat: 1, dog: 2, cow: 3, sheep:4.
 
+So，this encoding method cannot represent the relationship between words. and Model cannot explain it easily.
+
 #### Word Embedding
+
+Word embedding is the method of text representation. Just like one-hot but have lots of advantages
+1. It can use a low-dimentional vector to represent the data
+2. It will be very close in space, if they have very similar sematic.
+3. It very versatile, and can be used in verial task.
+
+![image](https://user-images.githubusercontent.com/53561946/187730126-9cf6b3d0-c3a8-4b34-b7fe-24a38c1d013c.png)
+
+---
+
+### Word Embedding algorithms
+
+There are two main word embedding algorithms:
+- Word2Vec
+- GloVe
+
+
