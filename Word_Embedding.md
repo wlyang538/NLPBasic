@@ -52,4 +52,16 @@ There are two main word embedding algorithms:
 - Word2Vec
 - GloVe
 
+#### Word2Vec
+
+The [Word2Vec](https://easyai.tech/ai-definition/word2vec/) refers to a method of getting words vector that based on the statistical approach. It proposed by Mikolov in Google. there are two training model which are:
+- predict current word according the context
+- predict the context according to the current word.
+More information, see [Word2Vec](https://easyai.tech/ai-definition/word2vec/)
+
+#### GloVe
+
+GloVe is the extend of Word2Vec method. It combines global statistics with the context-based learning of Word2Vec.
+More detail please see: [GloVe](http://www.fanyeong.com/2018/02/19/glove-in-detail/)
+
 
