@@ -47,3 +47,12 @@ Google it to see more detail.
 2. Word2Vec is a static method. Although it can be used in various situations, it can be optimized Dynamically. (Word2vec 是一种静态的方式，虽然通用性强，但是无法针对特定任务做动态优化
 )
 
+---
+
+## GloVe
+
+It proposed by Stanford NLP Grop, and it is used to conduct the word embedding task.
+
+It is short for Global Vectors for Word Represenatation. And it is a **Word representation** tool base on **count-based & overall statistics** 
+
+more detail can see [GloVe](http://www.fanyeong.com/2018/02/19/glove-in-detail/)
