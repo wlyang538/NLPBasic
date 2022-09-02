@@ -15,3 +15,10 @@
 ### torch-scatter install
 
 [install method](https://zhuanlan.zhihu.com/p/504134665)
+
+### Docker push image to repo
+
+- docker ps //查看镜像
+- docker commit <exiting-Container> <hub-user>/<repo-name>[:<tag>] 将该容器生成镜像
+- docker tag <existing-image> <hub-user>/<repo-name>[:<tag>] 如果存在镜像 tag 该镜像
+- docker push<hub-user>/<repo-name>:<tag> 将镜像push到你的repo
