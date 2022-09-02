@@ -10,3 +10,8 @@
   
 - docker to local: docker cp 容器ID:/上传路径 /路径/文件名 \
   for example: sudo docker cp 00e7d0f73704:/usr/local/arm/rootfs-debian/123.txt /usr/share/
+  
+
+### torch-scatter install
+
+[install method](https://zhuanlan.zhihu.com/p/504134665)
